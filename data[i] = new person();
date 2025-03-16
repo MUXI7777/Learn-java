@@ -1,0 +1,20 @@
+public class Main {  
+    public static void main(String[] args) {  
+        Scanner s = new Scanner(System.in);  
+        int m = s.nextInt();  
+        person[] data = new person[51]; // 假设m <= 51  
+
+        for (int i = 1; i <= m; i++) {  
+            // 首先，创建person对象  
+            data[i] = new person();  
+            // 然后，读取输入并调用change方法  
+            int a = s.nextInt();  
+            String b = s.next();  
+            int c = s.nextInt();  
+            data[i].change(a, b, c);  
+        }  
+
+        s.close();  
+    }  
+}  
+# 和c不同的是创建类数组使仍需要对每一个data[[i]用new data(),开辟空间
