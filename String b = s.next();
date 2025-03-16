@@ -1,0 +1,9 @@
+for(int i = 1;i <= m;i ++)
+{
+    data[i] = new person();
+    int a = s.nextInt();
+    String b = s.next();
+    int c = s.nextInt();
+    data[i].change(a, b, c);
+}
+# java 中没有scanf()的方法，用s.next()可以输入字符串
