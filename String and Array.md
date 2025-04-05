@@ -1,6 +1,6 @@
 # java怎么判断一个元素是否在列表中
 ## contains方法
-```
+```java
 import java.util.ArrayList;
 import java.util.List;
 
