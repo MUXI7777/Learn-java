@@ -1,7 +1,8 @@
 # 教学网址：https://blog.csdn.net/qq_31696297/article/details/145183440
 # 结果
-![Uploading image.png…]()
 
+
+![联想截图_20250509155827](https://github.com/user-attachments/assets/f8f89d06-efbf-488c-a3f0-87ca5aa99bed)
 
 # 内容
 近期，本人在学习过程中接触到了JavaFX相关内容。但是，自从 JDK 11 开始，JavaFX 不再包含在大多数 OpenJDK 发行版中。
