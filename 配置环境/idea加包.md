@@ -2,6 +2,7 @@
 # 结果
 ![Uploading image.png…]()
 
+
 # 内容
 近期，本人在学习过程中接触到了JavaFX相关内容。但是，自从 JDK 11 开始，JavaFX 不再包含在大多数 OpenJDK 发行版中。
 
